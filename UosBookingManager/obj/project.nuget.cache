@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpPiH2PjtTg/A9mkRnerkFHKI/kOY4xksaJZ3SvimVztBw9aRHIBG3HN3Wf4IKRIGcwRVXu5w0YVBI2Gao3A2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosta\\OneDrive\\Desktop\\UosBookingManager\\UosBookingManager\\UosBookingManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.exe
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.deps.json
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.runtimeconfig.json
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.pdb
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.AssemblyReference.cache
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.MainForm.resources
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.GenerateResource.cache
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AssemblyInfoInputs.cache
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AssemblyInfo.cs
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.CoreCompileInputs.cache
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\refint\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.pdb
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.genruntimeconfig.cache
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\ref\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\University\Software Development assignment\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AddBookingForm.resources
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.exe
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.deps.json
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.runtimeconfig.json
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\bin\Debug\net6.0-windows\UosBookingManager.pdb
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.AssemblyReference.cache
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AddBookingForm.resources
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.MainForm.resources
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.GenerateResource.cache
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AssemblyInfoInputs.cache
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.AssemblyInfo.cs
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.csproj.CoreCompileInputs.cache
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\refint\UosBookingManager.dll
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.pdb
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\UosBookingManager.genruntimeconfig.cache
+C:\Users\kosta\OneDrive\Desktop\UosBookingManager\UosBookingManager\obj\Debug\net6.0-windows\ref\UosBookingManager.dll
